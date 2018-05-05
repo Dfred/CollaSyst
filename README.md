@@ -25,11 +25,20 @@ Existing solutions such as Gephi already provide a rich set of tools for importi
 Also the project aiming at realtime online collaboration, it needs to endow Gephi with addtional plugins to depart from a standalone solution.
 
 # Proposed Solution
-This project aims at skinning Gephi and developing plugins to provide the most accessible interface to non-experts.
-Key objectives are providing:
-* various levels of GUI simplifications so a novice user's learning curve stays optimal;
-* multi-level boxes for grouping nodes (think encapsulation);
-* typed links between nodes
-* type-dependant (for node and/or boxes) views
-* web 
+This project can be split in two stages: 
+1. skinning Gephi and developing plugins to provide the most accessible interface to non-experts;
+1. creating a deployable server-side solution, compatible with and visually as much similar as possible to the result of the standalone stage.
+
+## Roadmap
+1. Standalone stage, providing:
+ * various levels of GUI simplifications so a novice user's learning curve stays optimal;
+ * multi-level boxes for grouping nodes (think encapsulation);
+ * typed links between nodes;
+ * type-dependant (for node and/or boxes) views;
+ * installation scripts and/or packaging
+2. Web stage, providing:
+ * a browser-based interface similar to the standalone stage;
+ * trust and voting support for accepting patches;
+ * standalone client communication with the server;
+ * installation scripts and/or packaging.
 

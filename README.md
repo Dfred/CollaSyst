@@ -20,11 +20,14 @@ Describing the current governmental system could be acheived through collaborati
 
 A new governmental policy could then be formalised into a modification of the existing structure, explicitly revealing its mode of operation. A policy's effects could then be simulated by feeding the overall modified system with data representative of usual expectations (money received from taxes and given to foreign countries).
 
-## Existing software limitations
+# Proposed Solution
+
+Considering parts of the above scenario can be implemented with Gephi, it sounds more reasonable to build upon Gephi until a satisfying mature version of CollaSyst emerges, and then transfer the result to the web using appropriate technologies.
+
+## Overcoming Gephi limitations
 Existing solutions such as Gephi already provide a rich set of tools for importing, editing, visualising and exploring data. However with data scientists as the target audience for this software, its interface and features represents an incredibly difficult challenge for the layman to start effectively editing or visualising the data describing the system.
 Also the project aiming at realtime online collaboration, it needs to endow Gephi with addtional plugins to depart from a standalone solution.
 
-# Proposed Solution
 This project can be split in two stages: 
 1. skinning Gephi and developing plugins to provide the most accessible interface to non-experts;
 1. creating a deployable server-side solution, compatible with and visually as much similar as possible to the result of the standalone stage.

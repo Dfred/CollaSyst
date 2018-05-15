@@ -3,6 +3,7 @@ Standing for Collaborative Systems, CollaSyst is an interactive and distributed 
 Based first on Gephi (https://gephi.org) as a standalone solution, the aim is to eventually create a deployable web-based solution for real-time collaboration, wiki-style.
 
 Quick links: 
+* Collaborative documentation: https://github.com/Dfred/CollaSyst/wiki
 * General design: https://github.com/Dfred/CoSyE/wiki/Design
 * Developpers: https://github.com/Dfred/CoSyE/wiki/Contributing
 * Users: https://github.com/Dfred/CoSyE/wiki/User-Documentation

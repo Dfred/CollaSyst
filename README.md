@@ -1,3 +1,5 @@
+[No English? Go there: https://translate.google.com/translate?hl=&sl=auto&u=https%3A%2F%2Fgithub.com%2FDfred%2FCollaSyst]
+
 # CollaSyst
 Standing for Collaborative Systems, CollaSyst is an interactive and distributed system modeler/visualizer for decision-making.
 Based first on Gephi (https://gephi.org) as a standalone solution, the aim is to eventually create a deployable web-based solution for real-time collaboration, wiki-style.

@@ -50,20 +50,20 @@ Considering parts of the above scenario can be implemented with Gephi, it sounds
 
 ## Overcoming Gephi limitations
 Existing solutions such as Gephi already provide a rich set of tools for importing, editing, visualising and exploring data. However with data scientists as the target audience for this software, its interface and features represents an incredibly difficult challenge for the layman to start effectively editing or visualising the data describing the system.
-Also the project aiming at realtime online collaboration, it needs to endow Gephi with addtional plugins to depart from a standalone solution.
+Also the project aiming at realtime online collaboration, it needs to endow Gephi with addtional plugins to depart from that standalone solution.
 
 This project can be split in two stages: 
-1. skinning Gephi and developing plugins to provide the most accessible interface to non-experts;
+1. adapting towards simplicity Gephi's user interface and developing plugins to provide the most accessible interface to non-experts;
 1. creating a deployable server-side solution, compatible with - and visually as much similar as possible to the result of - the standalone stage.
 
 ## Roadmap
-1. Standalone stage, providing:
+1. Standalone milestone, providing:
  * various levels of GUI simplifications so a novice user's learning curve stays optimal;
  * multi-level boxes for grouping nodes (think encapsulation);
- * typed links between nodes;
- * type-dependant (for node and/or boxes) views;
+ * tagged links between nodes (already tagged);
+ * tag-dependant (for node and/or boxes) views;
  * installation scripts and/or packaging
-2. Web stage, providing:
+2. Web milestone, providing:
  * a browser-based interface similar to the standalone stage;
  * trust and voting support for accepting patches;
  * standalone client communication with the server;

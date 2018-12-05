@@ -10,25 +10,29 @@ __Quick links:__
 
 ## Features
 * graph-based knowledge management:
-  * single-tag nodes and links
-  * addition, edition, deletion of nodes and links
-  * sequenced mutations (such as time-based animations)
+  * single-tag nodes and links;
+  * addition, edition, deletion of nodes and links;
+  * sequenced mutations (such as time-based animations);
   * visualisation and browsing:
-    * node and link search
-    * dynamic layer creation with filtering and search results
-    * stackable layers
+    * node and link search;
+    * dynamic layer creation with filtering and search results;
+    * stackable layers;
   * optional requirements:
-    * source link
-    * source material
-* authoring
-  * user registration
-  * user and group management (delegation, expertise, etc.)
-* traceability and validation
-  * versionned modifications (diff, timestamp, etc.)
-  * peer-review
-* pluggable to third-party software
-  * exportable data
-  * optional encryption
+    * source link;
+    * source material;
+* editors:
+  * user registration;
+  * group management;
+  * profiles:
+    * expertise;
+    * consent of delegation;
+    * notifications;
+* traceability and validation:
+  * versionned modifications (diff, timestamp, etc.);
+  * peer review;
+* pluggable to third-party software:
+  * exportable data;
+  * optional encryption;
   * optional ledger (blockchain)
 
 # Problem

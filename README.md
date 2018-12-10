@@ -22,16 +22,22 @@ __Quick links:__
   * optional requirements:
     * source link;
     * source material;
-* editors:
+* edition:
   * user registration;
   * group management;
   * profiles:
     * expertise;
     * consent of delegation;
     * notifications;
-* traceability and validation:
-  * versionned modifications (diff, timestamp, etc.);
-  * peer review;
+  * traceability and validation:
+    * versionned modifications (diff, timestamp, etc.);
+    * peer review;
+* simulation:
+  * directed links can represent streams (money, people, resources, etc.);
+  * nodes can split, fuse or transform streams;
+  * streams sources can be fed with data:
+    * from previous studies, and be used to refine graphed models;
+    * from estimates or projections, and be used to simulate effects;
 * pluggable to third-party software:
   * exportable data;
   * optional encryption;

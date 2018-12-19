@@ -46,7 +46,30 @@ __Quick links:__
   * optional ledger (blockchain)
 
 # Problem
-Whether humans need to handle complex abstract systems such as a governement, a computer network or a particular economy, realtime availability of just the right amount of information is key. For the group to take a collaborative and collegial decision, every member of the group who wants to take a reasoned decision should have access to the necessary information. Each individual might focus on a different aspect of the problem, or work at a specific level of abstraction.
+To design or manage a complex system (such as a governement, traffic control, particular economy...) Humans usually acknowledge the need to gather individual expertise for robust decision making: a decision that satisfies the interest of the collective (the collaborative individuals) and that prevents its own collapse. However large group #collaboration is not easy: collecting, sharing and compiling trusted information is a challenge.
+
+### Informed design
+For a group to act collaboratively and collegialy, every group member who wants to take a reasoned decision should have access to the necessary information. 
+Each individual might focus on a different aspect of the problem, or work at a specific level of abstraction.
+Also, because information is better understood through multiple perspectives, information representation should be dynamic: switching from one perspective to another should be effortless and realtime.
+
+### Unbiased management
+Because group dynamics often let a leader emerge, such leader’s biases impact the whole group once the leader makes the decision for the group. Not only is this leader rarely benevolent (favoring group interest), but over time internal and external influences build up and apply pressure to the leader, steering the leading individual away from alleged initial benevolence.
+Hence, the bigger the potential consequences of a group decision, the more bias-free, informed and representative of the collective’s intentions the decision should be.
+
+# Principled solution
+Ideally, a collective decision should :
+
+1. emerge from the collection of informed individuals;
+1. be reasoned through formalization (i.e: structured and functional);
+1. be laid out with quantified and qualified objectives to measure its effects;
+1. be simulated so that the impact of changing initial conditions can be projected.
+
+To this end, a collaborative decision making platform could be helpful, aiming at:
+1. reducing the time needed to acquire prerequisite knowledge with a graphical approach;
+1. allowing the consultation and input of an arbitrary large group;
+1. enforcing trust through #citations and #traceability of information;
+1. storing generated data over a #blockchain (for trust, availability, …).
 
 Every system can be represented with directed flows (inputs or outputs) of various types, and flow transformers (functional elements/nodes) of various effect. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
 
@@ -58,7 +81,7 @@ Describing the current governmental system could be acheived through collaborati
 
 A new governmental policy could then be formalised into a modification of the existing structure, explicitly revealing its mode of operation. A policy's effects could then be simulated by feeding the overall modified system with data representative of usual expectations (money received from taxes and given to foreign countries).
 
-# Proposed solution
+# Proposed software solution
 
 Considering parts of the above scenario can be implemented with Gephi, it sounds more reasonable to build upon Gephi until a satisfying mature version of CollaSyst emerges, and then transfer the result to the web using appropriate technologies.
 
@@ -85,6 +108,7 @@ This project can be split in two stages:
 
 ## Relevant third-party software
 CollaSyst scope should be limited to knowledge creation and visualisation, yet this is only an aspect of decision making. Thus additional tools/processes can help reach a consensus, such as debating, polling, voting, source data storage and authentication, user to individual mapping (e.g: ID validation), etc.
+
 Here are potential candidates to plug this project with for a comprehensive solution to collaborative informed decision making:
 * Decidim: https://decidim.org/features/ - a free open-source participatory democracy for cities and organizations
 * 

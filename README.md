@@ -1,4 +1,4 @@
-![No English](https://cdn3.iconfinder.com/data/icons/google-suits-1/32/18_google_translate_text_language_translation-64.png)[translate me!](https://translate.google.com/translate?hl=&sl=auto&u=https%3A%2F%2Fgithub.com%2FDfred%2FCollaSyst)
+![No English](https://cdn3.iconfinder.com/data/icons/google-suits-1/32/18_google_translate_text_language_translation-64.png)[translate me!](https://translate.google.com/translate?hl=&sl=auto&u=https%3A%2F%2Fgithub.com%2FDfred%2FCollaSyst%23readme)
 
 # CollaSyst
 Standing for Collaborative Systems, CollaSyst is an interactive and distributed system modeler/visualizer for decision-making.

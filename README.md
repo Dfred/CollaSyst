@@ -4,13 +4,13 @@
 Standing for Collaborative Systems, CollaSyst is a system modeler/visualizer for distributed and interactive decision-making.
 Based first on Gephi (https://gephi.org) as a standalone solution, the aim is to eventually create a deployable web-based solution for real-time collaboration, wiki-style.
 
+![layered graph](Assets/layered-graph_annotated.png)
+
 __Quick links:__
 * Collaborative documentation: https://github.com/Dfred/CollaSyst/wiki
 * General design: https://github.com/Dfred/CoSyE/wiki/Design
 * Developpers: https://github.com/Dfred/CoSyE/wiki/Contributing
 * Users: https://github.com/Dfred/CoSyE/wiki/User-Documentation
-
-![layered graph](Assets/layered-graph_annotated.png)
 
 ## Features
 * graph-based knowledge management:
@@ -46,7 +46,7 @@ __Quick links:__
   * optional ledger (blockchain)
 
 # Problem
-Whether humans need to handle complex abstract systems such as a governement, a computer network or a particular economy, displaying just the right amount of information is key. In effect, every individual in a group might focus on a different aspect of the system, or work at a specific level of abstraction.
+Whether humans need to handle complex abstract systems such as a governement, a computer network or a particular economy, realtime availability of just the right amount of information is key. In effect, every individual in a group might focus on a different aspect of the system, or work at a specific level of abstraction.
 
 Every system can be represented with directed flows (inputs or outputs) of various types, and flow transformers (functional elements/nodes) of various effect. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
 

@@ -71,7 +71,8 @@ To this end, a collaborative decision making platform could be helpful, and woul
 1. enforcing trust through citations and traceability of information;
 1. storing generated data over a blockchain (for trust, availability, …).
 
-Every system can be represented with directed flows (inputs or outputs) of various types, and flow transformers (functional elements/nodes) of various effect. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
+Every resource of the system (such as money, people, energy source...) can be represented with nodes. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
+Every transfer inside and outside the system can be represented with directed flows (inputs or outputs), and flow transformers (functional elements/nodes) of various effect. 
 
 ## Use case: defining a new governmental policy
 For instance, a democratic government usually consists of 3 main bodies: Executive, Legislative and Judiciary. At the highest level of abstraction, these are 3 distinct abstract nodes linked together by many flows -- money, decisions, people, etc. CollaSyst thus allows descending one level of abstraction by zooming into any of these 3 nodes until it opens-up to reveal all its constitutive nodes and internal flows. 

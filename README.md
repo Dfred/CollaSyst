@@ -46,7 +46,7 @@ __Quick links:__
   * optional ledger (blockchain)
 
 # Problem
-Whether humans need to handle complex abstract systems such as a governement, a computer network or a particular economy, realtime availability of just the right amount of information is key. In effect, every individual in a group might focus on a different aspect of the system, or work at a specific level of abstraction.
+Whether humans need to handle complex abstract systems such as a governement, a computer network or a particular economy, realtime availability of just the right amount of information is key. For the group to take a collaborative and collegial decision, every member of the group who wants to take a reasoned decision should have access to the necessary information. Each individual might focus on a different aspect of the problem, or work at a specific level of abstraction.
 
 Every system can be represented with directed flows (inputs or outputs) of various types, and flow transformers (functional elements/nodes) of various effect. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
 

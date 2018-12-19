@@ -10,6 +10,8 @@ __Quick links:__
 * Developpers: https://github.com/Dfred/CoSyE/wiki/Contributing
 * Users: https://github.com/Dfred/CoSyE/wiki/User-Documentation
 
+![layered graph](Assets/layered-graph_annotated.png)
+
 ## Features
 * graph-based knowledge management:
   * single-tag nodes and links;

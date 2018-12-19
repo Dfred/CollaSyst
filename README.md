@@ -67,7 +67,7 @@ Ideally, a collective decision should :
 
 To this end, a collaborative decision making platform could be helpful, and would aim at:
 1. reducing the time needed to acquire prerequisite knowledge with a graphical approach;
-1. allowing the consultation and input of an arbitrary large group;
+1. allowing the consultation and input of an arbitrarily vast group;
 1. enforcing trust through #citations and #traceability of information;
 1. storing generated data over a #blockchain (for trust, availability, …).
 

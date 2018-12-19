@@ -46,7 +46,7 @@ __Quick links:__
   * optional ledger (blockchain)
 
 # Problem
-To design or manage a complex system (such as a governement, traffic control, particular economy...) Humans usually acknowledge the need to gather individual expertise for robust decision making: a decision that satisfies the interest of the collective (the collaborative individuals), and that prevents its own collapse. However large group #collaboration is not easy: collecting, sharing and compiling trusted information is a challenge.
+To design or manage a complex system (such as a governement, traffic control, particular economy...) Humans usually acknowledge the need to gather individual expertise for robust decision making: a decision that satisfies the interest of the collective - the collaborative individuals - and that prevents its own collapse. However large group collaboration is not easy: collecting, sharing and compiling trusted information is a challenge.
 
 ### Informed design
 For a group to act collaboratively and collegialy, every group member who wants to take a reasoned decision should have access to the necessary information. 

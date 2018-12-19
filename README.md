@@ -81,7 +81,7 @@ One could then focus on a particular aspect of the exposed internals by filterin
 
 Describing the current governmental system could be acheived through collaboration of non-experts and validating experts all of whom create nodes and their typed flows. Alledgedly non-experts would collaborate using general knowledge (for instance, basic individual tax system), whereas experts would review, fix and complete specific nodes belonging to their area of expertise.
 
-A new governmental policy could then be formalised into a modification of the existing structure, explicitly revealing its mode of operation. A policy's effects could then be simulated by feeding the overall modified system with data representative of usual expectations (money received from taxes and given to foreign countries).
+A new governmental policy could then be formalised into a modification of the existing structure, explicitly revealing its mode of operation. A policy's effects could then be simulated by feeding the overall modified system with data representative of usual expectations (money received from taxes, coming from and/or given to foreign parties).
 
 # Proposed software solution
 

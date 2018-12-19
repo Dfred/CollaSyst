@@ -111,6 +111,6 @@ This project can be split in two stages:
 ## Relevant third-party software
 CollaSyst scope should be limited to knowledge creation and visualisation, yet this is only an aspect of decision making. Thus additional tools/processes can help reach a consensus, such as debating, polling, voting, source data storage and authentication, user to individual mapping (e.g: ID validation), etc.
 
-Here are potential candidates to plug this project with for a comprehensive solution to collaborative informed decision making:
+Here are potential candidates complementary to this project for a comprehensive solution to collaborative informed decision making:
 * Decidim: https://decidim.org/features/ - a free open-source participatory democracy for cities and organizations
 * 

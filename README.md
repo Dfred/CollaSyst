@@ -71,7 +71,7 @@ To this end, a collaborative decision making platform could be helpful, and woul
 1. enforcing trust through citations and traceability of information;
 1. storing generated data over a blockchain (for trust, availability, …).
 
-Every resource of the system (such as money, people, energy source...) can be represented with nodes. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
+Every resource of the system (such as money, people, energy source...) can be represented with a node. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
 
 Every transfer inside and outside the system can be represented with directed flows (inputs or outputs), and flow transformers (functional elements/nodes) of various effect. 
 
@@ -87,7 +87,7 @@ A new governmental policy could then be formalised into a modification of the ex
 
 Considering parts of the above scenario can be implemented with Gephi, it sounds more reasonable to build upon Gephi until a satisfying mature version of CollaSyst emerges, and then transfer the result to the web using appropriate technologies.
 
-## Overcoming Gephi limitations
+## Building upon Gephi
 Existing solutions such as Gephi already provide a rich set of tools for importing, editing, visualising and exploring data. However with data scientists as the target audience for this software, its interface and features represents an incredibly difficult challenge for the layman to start effectively editing or visualising the data describing the system.
 Also the project aiming at realtime online collaboration, it needs to endow Gephi with addtional plugins to depart from that standalone solution.
 

@@ -72,10 +72,11 @@ To this end, a collaborative decision making platform could be helpful, and woul
 1. storing generated data over a blockchain (for trust, availability, …).
 
 Every resource of the system (such as money, people, energy source...) can be represented with nodes. Grouping co-functional nodes together allows collapsing their complexity into an abstract node: a node with inputs and outputs to other functional elements outside of the group.
+
 Every transfer inside and outside the system can be represented with directed flows (inputs or outputs), and flow transformers (functional elements/nodes) of various effect. 
 
 ## Use case: defining a new governmental policy
-For instance, a democratic government usually consists of 3 main bodies: Executive, Legislative and Judiciary. At the highest level of abstraction, these are 3 distinct abstract nodes linked together by many flows -- money, decisions, people, etc. CollaSyst thus allows descending one level of abstraction by zooming into any of these 3 nodes until it opens-up to reveal all its constitutive nodes and internal flows. 
+For instance, a democratic government usually consists of 3 main bodies: Executive, Legislative and Judiciary. At the highest level of abstraction, these are 3 distinct abstract nodes linked together by many flows (money, decisions, people, etc.) CollaSyst thus allows descending one level of abstraction by zooming into any of these 3 nodes until it opens-up to reveal all its constitutive nodes and internal flows. 
 One could then focus on a particular aspect of the exposed internals by filtering the visualisation with masks such as "all non-people" flows.
 
 Describing the current governmental system could be acheived through collaboration of non-experts and validating experts all of whom create nodes and their typed flows. Alledgedly non-experts would collaborate using general knowledge (for instance, basic individual tax system), whereas experts would review, fix and complete specific nodes belonging to their area of expertise.

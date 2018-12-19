@@ -65,7 +65,7 @@ Ideally, a collective decision should :
 1. be laid out with quantified and qualified objectives to measure its effects;
 1. be simulated so that the impact of changing initial conditions can be projected.
 
-To this end, a collaborative decision making platform could be helpful, aiming at:
+To this end, a collaborative decision making platform could be helpful, and would aim at:
 1. reducing the time needed to acquire prerequisite knowledge with a graphical approach;
 1. allowing the consultation and input of an arbitrary large group;
 1. enforcing trust through #citations and #traceability of information;

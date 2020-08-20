@@ -113,4 +113,4 @@ CollaSyst scope should be limited to knowledge creation and visualisation, yet t
 
 Here are potential candidates complementary to this project for a comprehensive solution to collaborative informed decision making:
 * Decidim: https://decidim.org/features/ - a free open-source participatory democracy for cities and organizations
-* 
+* https://js.cytoscape.org/ - a graph library in JS.
